@@ -2,12 +2,10 @@
 
 ### Hello, I'm Jimmy Chan 👋🏻
 
-Currently studying Data Analytic @Academy Xi and currently employed @Westpac Group based in Sydney 🏡.
+- 📙: Focusing on Data Analytics and UX/UI
+- 🏠: Sydney, Australia
+- 👨‍💼 : Westpac Group
 
-- :orange_book: Focusing on Data Analytics and UX/UI
-- :hammer: 
-- :ram: 
-- :meat_on_bone: 
 
 <!---
 jimmyC86/jimmyC86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
